@@ -10,5 +10,4 @@ public class TrackerApplication {
 		SpringApplication.run(TrackerApplication.class, args);
 		System.out.println("Application started successfully.");
 	}
-
 }
